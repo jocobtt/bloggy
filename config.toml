@@ -26,3 +26,39 @@ Paginate = 4
     name = "Faq"
     weight = -100
     url = "/faq/"
+#[[menu.main]]
+#    name = "Resume"
+#    weight = -100
+#    url = "/resume"
+
+
+#[languages]
+# [languages.jp]
+#   languagename = "Japanese"
+#   title = ”ジェコブ”
+#
+#   [languages.jp.params]
+#   author = "ジェコブ"
+#   info = "データサイエンティスト"
+#   description = "Just a guy who likes to code, AI/ML, Kubernetes, python and running"
+#   keywords = "blog,developer,personal"
+#
+#   [languages.jp.menu]
+#
+#   [[languages.en.menu.main]]
+#   name = "About"
+#   weight = 1.0
+#   url = "/about/"
+
+
+
+
+#[sitemap]
+#ChangeFreq = ""
+#Filename = "sitemap.xml"
+#Priority = "-1"
+
+
+# https://dev.to/dgavlock/creating-a-hugo-site-on-github-pages-3cjo - look at this for how to add different languages 
+# https://gohugo.io/getting-started/configuration/
+
