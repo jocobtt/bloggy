@@ -1,6 +1,6 @@
 baseURL = "https://jocobtt.github.io/"
 languageCode = "en-us"
-title = "jbrazzy Data Fun"
+title = "Jacob's Tech Tangents"
 theme = "kube"
 description = "Website for me to keep some blogs and other stuff"
 Paginate = 4
@@ -17,10 +17,10 @@ Paginate = 4
 [[menu.main]]
     name = "Blog"
     weight = -100
-    url = "/blog/"
+    url = "/posts/"
 [[menu.main]]
     name = "About"
-    weight = -100
+    weight = -100 
     url = "/about/"
 [[menu.main]]
     name = "Faq"

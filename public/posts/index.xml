@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on jbrazzy Data Fun</title>
+    <title>Posts on Jacob&#39;s Tech Tangents</title>
     <link>https://jocobtt.github.io/posts/</link>
-    <description>Recent content in Posts on jbrazzy Data Fun</description>
+    <description>Recent content in Posts on Jacob&#39;s Tech Tangents</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Aug 2020 20:39:34 -0400</lastBuildDate>
@@ -17,7 +17,8 @@
       <pubDate>Sun, 23 Aug 2020 20:39:34 -0400</pubDate>
       
       <guid>https://jocobtt.github.io/posts/firstpost/</guid>
-      <description>This is my first post</description>
+      <description>This is my first blog post. Since this is my first post, I will start out with something simple. The other day, while working on this stie actually, I learned about a cool addon that you can do for your Github profile.
+Maybe everyone else knows about this but if you create a repository under your own github username you can then create a README.md page that then acts as a landing page for your Github profile.</description>
     </item>
     
   </channel>
