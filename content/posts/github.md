@@ -1,8 +1,10 @@
+
 ---
-title: "Firstpost"
-date: 2020-08-23T20:39:34-04:00
+title: "github"
+date: 2020-08-29T17:51:45-04:00
 draft: false
 ---
+
 
 This is my first blog post. Since this is my first post, I will start out with something simple. The other day, while working on this stie actually, I learned about a cool addon that you can do for your Github profile. 
 
@@ -11,4 +13,5 @@ Maybe everyone else knows about this but if you create a repository under your o
 
 
 <!-- write more from here etc. -->
+
 
