@@ -31,11 +31,19 @@ Paginate = 4
 #    weight = -100
 #    url = "/resume"
 
-
+# https://gohugo.io/content-management/multilingual/
+#https://www.gohugo.org/doc/tutorials/create-a-multilingual-site/
 #[languages]
+# [languages.en]
+#   baseURL = "https://jocobtt.github.com"
+#   languagename = "English"
+#   title = ”Jacob's Tech Tangents ”
+#   weight = 1
 # [languages.jp]
+#   baseURL = "https://jocobtt.github.com/jp"
 #   languagename = "Japanese"
-#   title = ”ジェコブ”
+#   title = ”ジェコブのデータブログ”
+#   weight = 2
 #
 #   [languages.jp.params]
 #   author = "ジェコブ"
