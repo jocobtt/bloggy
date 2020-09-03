@@ -9,7 +9,7 @@ draft: false
 This is my first blog post. Since this is my first post, I will start out with something simple. The other day, while working on this stie actually, I learned about a cool addon that you can do for your Github profile. 
 
 
-Maybe everyone else knows about this but if you create a repository under your own github username you can then create a `README.md` page that then acts as a landing page for your Github profile. The uses for it are pretty free it seems but it is mainly use to show what sort of things you are working with, allowing you to have more space to post links to your resume, show what you work on by connecting it to your github data. 
+Maybe everyone else knows about this already but if you create a repository under your own github username you can then create a `README.md` page that then acts as a landing page for your Github profile. So for instance for me my Github username is jocobtt and so if I go into github and create a repo of the exact same name it then creates a landing page for my own profile. The uses for it are pretty free it seems but it is mainly use to show what sort of things you are working with, allowing you to have more space to post links to your resume, show what you work on by connecting it to your github data. 
 
 
 For instance for my own Github account profile I have it show my twitter account and shows what I am currently working on. But the format itself is pretty open. For instance, when you first create the repo with the same name as your Github profile name you will see this description pop up: 
